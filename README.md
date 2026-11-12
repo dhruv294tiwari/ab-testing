@@ -79,5 +79,5 @@ Because the groups were balanced on pre-offer characteristics, the differences a
 ## Repository contents
 
 - `ab_testing.ipynb`: full analysis notebook
-- ` Testing data.csv`: dataset (or link to the Kaggle source)
+- ` testing_data.csv`: dataset (or link to the Kaggle source)
 - `README.md`: this file
